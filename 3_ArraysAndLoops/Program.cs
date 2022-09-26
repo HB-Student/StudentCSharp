@@ -1,11 +1,11 @@
-﻿#region Assignment
+#region Assignment
 /*
 * Array, List and loops are essential tools for every programmer
 * Todays work will be taking your own notes in this file
 * Alter the examples so you better understand them
 * Create new examples which you can use in the future
 *
-* Before you run the program, try to see if you can deduct 
+* Before you run the program, try to see if you can deduct  
 * what is written in the console via Line 68 in this file (the foreach loop)
 */
 #endregion
